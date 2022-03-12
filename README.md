@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ibretsam
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on new exciting projects
 - 📫 How to reach me: khanhle@gmail.com
 
